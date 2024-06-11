@@ -49,6 +49,13 @@ a {
     margin: 20px;
 }
 
+a:hover {
+    border-bottom: 0.1rem solid #3F3D56;
+    padding-bottom: 0.5rem;
+    transition: .5s;
+    font-size: 16px;
+}
+
 #line {
     width: 391px;
     height: 0;
